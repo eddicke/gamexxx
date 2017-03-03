@@ -20,29 +20,37 @@ background-size: 500px 500px;
 }
 #question {
 background-color: lightblue;
-  border: solid;
+  border: outset;
   font-size: 180%;
+  border-radius: 15px;
 }
 #choices {
 width: 250px;
   border: outset;
 background-color: green;
   font-size: 180%;
+  border-radius: 15px;
 }
 #score {
 background-color: red;
   width: 200px; 
   height: 50px; 
+  border: solid
   margin: 2cm 4cm 3cm 4cm;
   font-size: 200%;
+  border-radius: 25px;
 }
 #p {
   font-size: 200%;
 background-color: yellow;
+  
 }
 h1{
 width: 200px;
    border: inset;
+  position: absolute;
+  bottom: 450px;
+  border-radius: 25px;
   margin: 2cm 4cm 3cm 4cm;
     background: red; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
