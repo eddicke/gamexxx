@@ -21,19 +21,23 @@ background-size: 500px 500px;
 #question {
 background-color: lightblue;
   border: solid;
+  font-size: 180%;
 }
 #choices {
 width: 250px;
   border: outset;
 background-color: green;
+  font-size: 180%;
 }
 #score {
 background-color: red;
-  width: 100px; 
+  width: 200px; 
   height: 50px; 
   margin: 2cm 4cm 3cm 4cm;
+  font-size: 200%;
 }
 #p {
+  font-size: 200%;
 background-color: yellow;
 }
 h1{
