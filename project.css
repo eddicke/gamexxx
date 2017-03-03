@@ -48,8 +48,6 @@ background-color: yellow;
 h1{
 width: 200px;
    border: inset;
-  position: absolute;
-  bottom: 450px;
   border-radius: 25px;
   margin: 2cm 4cm 3cm 4cm;
     background: red; /* For browsers that do not support gradients */
