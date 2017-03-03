@@ -84,7 +84,7 @@ function checkAnswer() {
        correctAns.textContent = "Doing good!! :)"
       
       }
-      labelStyle.color = "green";
+      labelStyle.color = "blue";
     } else {
       labelStyle.color = "red";
      
