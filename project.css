@@ -43,6 +43,8 @@ background-color: yellow;
 h1{
 width: 200px;
    border: inset;
+   position: absolute;
+  bottom: 450px;
   margin: 2cm 4cm 3cm 4cm;
     background: red; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
