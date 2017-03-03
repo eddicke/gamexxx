@@ -35,6 +35,8 @@ background-color: green;
 background-color: red;
   width: 200px; 
   height: 50px; 
+  position: relative;
+  left: 300px;
   border: solid
   margin: 2cm 4cm 3cm 4cm;
   font-size: 200%;
@@ -49,7 +51,8 @@ h1{
 width: 200px;
    border: inset;
   border-radius: 25px;
-  margin: 2cm 4cm 3cm 4cm;
+  position: relative;
+  left: 300px;
     background: red; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
