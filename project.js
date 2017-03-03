@@ -78,7 +78,7 @@ function checkAnswer() {
     var labelStyle = document.getElementsByTagName("label")[correctIndex].style;
     labelStyle.fontWeight = "bold";
     if (userpick == quiz[currentQuestion].correct) {
-      score++;
+      score += 0;
       if(score++){
       
        correctAns.textContent = "Doing good!! :)"
